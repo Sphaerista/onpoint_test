@@ -1,0 +1,36 @@
+@font-face {
+  font-family: "Circe";
+  src: url(/fonts/circe-regular.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "DINPro";
+  src: url(/fonts/DINPro-Regular.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "DINPro-Medium";
+  src: url(/fonts/DINPro-Medium.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "DINPro-Bold";
+  src: url(/fonts/DINPro-Bold.ttf) format("truetype");
+}
+
+@font-face {
+  font-family: "Gilroy-Light";
+  src: url(/fonts/Gilroy-Light.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Gilroy-Regular";
+  src: url(/fonts/Gilroy-Regular.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Gilroy-Bold";
+  src: url(/fonts/Gilroy-Bold.ttf) format("truetype");
+}
+@font-face {
+  font-family: "Gilroy-Extrabold";
+  src: url(/fonts/Gilroy-Extrabold.ttf) format("truetype");
+}
