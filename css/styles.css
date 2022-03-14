@@ -1,4 +1,4 @@
-@import url(/fonts/fonts.css);
+@import url(https://sphaerista.github.io/onpoint_test/fonts/fonts.css);
 * {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
@@ -20,7 +20,7 @@ body {
   transition: -webkit-transform 0.3s ease-out;
   transition: transform 0.3s ease-out;
   transition: transform 0.3s ease-out, -webkit-transform 0.3s ease-out;
-  background-image: url(/img/bg-full.png);
+  background-image: url(https://sphaerista.github.io/onpoint_test/img/bg-full.png);
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -139,7 +139,7 @@ body {
   bottom: 0;
   height: 735px;
   width: 100%;
-  background: url(/img/static-parts-slide1.png);
+  background: url(https://sphaerista.github.io/onpoint_test/img/static-parts-slide1.png);
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -151,7 +151,7 @@ body {
   left: 25px;
   height: 70px;
   width: 100%;
-  background-image: url(/img/slide1-left-movable.png);
+  background-image: url(https://sphaerista.github.io/onpoint_test/img/slide1-left-movable.png);
   background-repeat: no-repeat;
   background-size: contain;
   -webkit-transition: all 4s;
@@ -165,7 +165,7 @@ body {
   left: 855px;
   height: 115px;
   width: 100%;
-  background-image: url(/img/slide1-right-center-movable.png);
+  background-image: url(https://sphaerista.github.io/onpoint_test/img/slide1-right-center-movable.png);
   background-repeat: no-repeat;
   background-size: contain;
   -webkit-transition: all 3s;
@@ -179,7 +179,7 @@ body {
   left: 545px;
   height: 180px;
   width: 20%;
-  background-image: url(/img/slide1-right-down-movable.png);
+  background-image: url(https://sphaerista.github.io/onpoint_test/img/slide1-right-down-movable.png);
   background-repeat: no-repeat;
   background-size: contain;
   -webkit-transition: all 5s;
@@ -193,7 +193,7 @@ body {
   left: 746px;
   height: 55px;
   width: 100%;
-  background-image: url(/img/slide1-right-up-movable.png);
+  background-image: url(https://sphaerista.github.io/onpoint_test/img/slide1-right-up-movable.png);
   background-repeat: no-repeat;
   background-size: contain;
   -webkit-transition: all 5s;
@@ -365,7 +365,7 @@ body {
   height: 694px;
   left: 1390px;
   width: 100%;
-  background: url(/img/movable-parts-slide2.png);
+  background: url(https://sphaerista.github.io/onpoint_test/img/movable-parts-slide2.png);
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -420,7 +420,7 @@ body {
   left: 52px;
   height: 688px;
   width: 30%;
-  background: url(/img/bottle.png);
+  background: url(https://sphaerista.github.io/onpoint_test/img/bottle.png);
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -432,7 +432,7 @@ body {
   left: 200px;
   height: 40px;
   width: 10%;
-  background-image: url(/img/bubble1-back.png);
+  background-image: url(https://sphaerista.github.io/onpoint_test/img/bubble1-back.png);
   background-repeat: no-repeat;
   background-size: contain;
   -webkit-transition: all 4s;
@@ -447,7 +447,7 @@ body {
   left: 185px;
   height: 70px;
   width: 10%;
-  background-image: url(/img/bubble2-for.png);
+  background-image: url(https://sphaerista.github.io/onpoint_test/img/bubble2-for.png);
   background-repeat: no-repeat;
   background-size: contain;
   -webkit-transition: all 4s;
@@ -461,7 +461,7 @@ body {
   left: 75px;
   height: 35px;
   width: 10%;
-  background-image: url(/img/bubble3-back.png);
+  background-image: url(https://sphaerista.github.io/onpoint_test/img/bubble3-back.png);
   background-repeat: no-repeat;
   background-size: contain;
   -webkit-transition: all 4s;
@@ -475,7 +475,7 @@ body {
   left: 185px;
   height: 110px;
   width: 10%;
-  background-image: url(/img/bubble4-back.png);
+  background-image: url(https://sphaerista.github.io/onpoint_test/img/bubble4-back.png);
   background-repeat: no-repeat;
   background-size: contain;
   -webkit-transition: all 4s;
@@ -490,7 +490,7 @@ body {
   left: 10px;
   height: 35px;
   width: 10%;
-  background-image: url(/img/bubble5-for.png);
+  background-image: url(https://sphaerista.github.io/onpoint_test/img/bubble5-for.png);
   background-repeat: no-repeat;
   background-size: contain;
   -webkit-transition: all 4s;
@@ -505,7 +505,7 @@ body {
   left: 20px;
   height: 80px;
   width: 10%;
-  background-image: url(/img/bubble6-for.png);
+  background-image: url(https://sphaerista.github.io/onpoint_test/img/bubble6-for.png);
   background-repeat: no-repeat;
   background-size: contain;
   -webkit-transition: all 4s;
@@ -519,7 +519,7 @@ body {
   left: 240px;
   height: 60px;
   width: 10%;
-  background-image: url(/img/bubble7-back.png);
+  background-image: url(https://sphaerista.github.io/onpoint_test/img/bubble7-back.png);
   background-repeat: no-repeat;
   background-size: contain;
   -webkit-transition: all 4s;
@@ -534,7 +534,7 @@ body {
   left: 185px;
   height: 140px;
   width: 20%;
-  background-image: url(/img/bubble8-for.png);
+  background-image: url(https://sphaerista.github.io/onpoint_test/img/bubble8-for.png);
   background-repeat: no-repeat;
   background-size: contain;
   -webkit-transition: all 4s;
@@ -597,7 +597,7 @@ body {
   left: 126px;
   height: 63.5px;
   width: 100%;
-  background: url(/img/plate.png);
+  background: url(https://sphaerista.github.io/onpoint_test/img/plate.png);
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -636,7 +636,7 @@ body {
   left: 35px;
   height: 63.5px;
   width: 100%;
-  background: url(/img/calendar.png);
+  background: url(https://sphaerista.github.io/onpoint_test/img/calendar.png);
   background-repeat: no-repeat;
   background-size: contain;
 }
